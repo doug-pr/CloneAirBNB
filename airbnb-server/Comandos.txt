@@ -1,0 +1,2 @@
+//Iniciar a API
+adonis serve --dev
